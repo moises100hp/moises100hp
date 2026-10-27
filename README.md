@@ -2,7 +2,7 @@
 
 ### Engenheiro de Software | .NET | Backend Developer
 
-Sou formado em **Engenharia de Software** e atuo há mais de 5 anos no mercado de tecnologia, com foco no desenvolvimento de sistemas robustos e escaláveis utilizando o ecossistema Microsoft. Atualmente, faço parte do time da **Spread Tecnologia (Alocado na Caixa Economica Federal)**, onde trabalho com soluções críticas de backend.
+Sou formado em **Engenharia de Software** e atuo há mais de 5 anos no mercado de tecnologia, com foco no desenvolvimento de sistemas robustos e escaláveis utilizando o ecossistema Microsoft. Atualmente, faço parte do time da **Spread Tecnologia (Alocado na Caixa Econômica Federal)**, onde trabalho com soluções críticas de backend.
 
 ---
 
